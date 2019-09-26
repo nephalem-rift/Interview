@@ -70,7 +70,7 @@
 * 数组高阶函数map、filter、reduce
 * 正则
 * setTimeout(不精确问题) 和 setInterval requestAnimationFrame
-* EventLoop: Node事件循环与浏览器事件循环的区别
+* EventLoop: Node事件循环与浏览器事件循环的区别 @墨菲斯托 @迪亚波罗
 * macrotask与microtask切换机制与执行顺序
 * 字符串方法 substr和substring
 * Promise
@@ -86,7 +86,7 @@
 * Location
 ---
 ### HTTP
-* 输入url到显示页面
+* 输入url到显示页面 @迪亚波罗
 	* DNS预解析，CSSOM，DOM，缓存，TCP三次握手、四次挥手，，304，强缓存、协商缓存
 * 状态码：206，301，302，400，401，403细节
 * GET、POST
@@ -95,7 +95,7 @@
 * CDN缓存
 * http和tpc的关系
 * 浏览器特性检测
-* HTTP1.1 HTTP2
+* HTTP1.1 HTTP2 @墨菲斯托
 * HTTPS
 ---
 ### 数据结构
